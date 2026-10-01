@@ -10,3 +10,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 2-insert: insert a document in the collection school
 - 3-all: list all documents in the collection school
 - 4-match: list all documents with name="Holberton school" in the collection school
+- 5-count: display the number of documents in the collection school
