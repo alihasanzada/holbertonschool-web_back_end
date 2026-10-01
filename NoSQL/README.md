@@ -15,3 +15,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 7-delete: delete all documents with name="Holberton school" in the collection school
 - 8-all.py: Python function that lists all documents in a collection
 - 9-insert_school.py: Python function that inserts a new document in a collection based on kwargs
+- 10-update_topics.py: Python function that changes all topics of a school document based on the name
