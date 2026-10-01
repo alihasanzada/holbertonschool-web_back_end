@@ -20,3 +20,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 12-log_stats.py: Python script that provides some stats about Nginx logs stored in MongoDB
 - 100-find: list all documents with name starting by Holberton in the collection school
 - 101-students.py: Python function that returns all students sorted by average score
+- 102-log_stats.py: improved log stats script with the top 10 most present IPs
