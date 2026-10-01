@@ -14,3 +14,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 6-update: add a new attribute address to documents with name="Holberton school" in the collection school
 - 7-delete: delete all documents with name="Holberton school" in the collection school
 - 8-all.py: Python function that lists all documents in a collection
+- 9-insert_school.py: Python function that inserts a new document in a collection based on kwargs
