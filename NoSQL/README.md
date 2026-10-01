@@ -12,3 +12,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 4-match: list all documents with name="Holberton school" in the collection school
 - 5-count: display the number of documents in the collection school
 - 6-update: add a new attribute address to documents with name="Holberton school" in the collection school
+- 7-delete: delete all documents with name="Holberton school" in the collection school
