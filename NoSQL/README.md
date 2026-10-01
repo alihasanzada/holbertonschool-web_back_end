@@ -9,3 +9,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 1-use_or_create_database: create or use the database my_db
 - 2-insert: insert a document in the collection school
 - 3-all: list all documents in the collection school
+- 4-match: list all documents with name="Holberton school" in the collection school
