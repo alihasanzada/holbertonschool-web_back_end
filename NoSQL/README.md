@@ -18,3 +18,4 @@ creating databases, inserting, querying, updating and deleting documents.
 - 10-update_topics.py: Python function that changes all topics of a school document based on the name
 - 11-schools_by_topic.py: Python function that returns the list of schools having a specific topic
 - 12-log_stats.py: Python script that provides some stats about Nginx logs stored in MongoDB
+- 100-find: list all documents with name starting by Holberton in the collection school
